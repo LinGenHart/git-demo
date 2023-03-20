@@ -7,4 +7,8 @@ Hello Git!
 Hello Git! master test
 Hello Git! hot-fix test
 888888888888888888888
+<<<<<<< HEAD
 LinGenHart
+=======
+666666666666 by lhc
+>>>>>>> 6e94196e0586208e2042997540d46f9f54f1306b
